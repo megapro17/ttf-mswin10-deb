@@ -7,6 +7,6 @@ MS Windows 10 Fonts for Debian/Ubuntu
 3. When you completed cloning, change directory to that what you clone and issue the command with root permission to install: dpkg -i ttf-ms-win10-*.deb
 
 ## Commands
-git clone git://github.com/megapro17/ttf-mswin10-deb
-cd ttf-mswin10-deb
-sudo dpkg -i ttf-ms-win10-*.deb
+    git clone git://github.com/megapro17/ttf-mswin10-deb
+    cd ttf-mswin10-deb
+    sudo dpkg -i ttf-ms-win10-*.deb
